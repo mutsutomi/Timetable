@@ -1,0 +1,41 @@
+#pagetop {
+  display: flex;
+  margin-top: 15px;
+  margin-left: 20px;
+  margin-bottom: 30px;
+}
+
+/* header{
+  margin-left: 40px;
+} */
+
+#icon{
+  width: 320px;
+  height: 90px;
+}
+
+h1{
+  /* font-size: 40px; */
+  font-weight: normal;
+  margin-left: 10px;
+}
+
+td{
+  height: 80px;
+}
+
+table{
+  table-layout: fixed;
+  /* background-color: red; */
+  margin-bottom:70px;
+  border-spacing: 5px;
+}
+
+#kokusailist{
+  height: 600px;
+  width: 300px;
+  background-color: coral;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
